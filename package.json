@@ -1,0 +1,15 @@
+{
+  "name": "mongodb-favicon",
+  "version": "0.0.0",
+  "description": "somewhere to just have one copy of this...",
+  "author": "Lucas Hrabovsky <lucas@mongodb.com> (http://imlucas.com)",
+  "homepage": "http://github.com/mongodb-js/mongodb-favicon",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mongodb-js/mongodb-favicon.git"
+  },
+  "dependencies": {
+    "serve-favicon": "^2.3.0"
+  }
+}
