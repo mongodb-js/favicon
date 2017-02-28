@@ -10,6 +10,6 @@
     "url": "https://github.com/mongodb-js/mongodb-favicon.git"
   },
   "dependencies": {
-    "serve-favicon": "^2.3.0"
+    "serve-favicon": "^2.4.1"
   }
 }
